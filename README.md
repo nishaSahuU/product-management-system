@@ -1,11 +1,6 @@
-# product-management-system
+
 <div align="center">
     <h1 align="center">Product Management System</h1>
-
-  <p align="center">
-    
-    <a href="#"><strong>Watch demo»</strong></a>
-    </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
